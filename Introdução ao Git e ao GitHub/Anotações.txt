@@ -1,4 +1,9 @@
-Link para download do GIT para Windows em 64-bits: https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe
+Passo a passo:
 
-O Git Bash é um terminal extendido para otimizar o uso do Git.
-
+ - Entrar no repositório;
+ - Usar o git add . (Para selecionar todos os arquivos da pasta);
+ - Verificar o status para ver se tudo está indo bem (git status);
+ - Hora de commitar! git commit -m "Aqui vai o comentário do commit";
+ - Agora é preciso dar um push: git push origin main
+ - E enviamos o git local para o remoto!
+ 
