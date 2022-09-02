@@ -1,0 +1,4 @@
+Link para download do GIT para Windows em 64-bits: https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
