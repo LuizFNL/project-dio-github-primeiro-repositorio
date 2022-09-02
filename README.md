@@ -1,5 +1,6 @@
 # Meu primeiro repositório
 #### Desafio de Projeto da DIO - Git/ GitHub 🚀
 
-Links úteis:
-[Guia do Markdown](https://www.markdownguide.org/basic-syntax/)
+### Aqui irei deixar minha anotação quanto ao uso do Git.
+
+-> no arquivo Anotações.txt
